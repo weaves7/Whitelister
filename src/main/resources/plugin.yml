@@ -1,0 +1,6 @@
+main: org.makershaven.whitelister.Whitelister
+api-version: "1.15"
+version: "${project.version}"
+name: "Whitelister"
+author: "Weaves"
+description: "Whitelists all players that have ever joined."
